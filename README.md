@@ -60,7 +60,7 @@ All output files will be created in the output folder.
 
 ## Report example
 
-![Report](media/../../media/report_example.png)
+![Report](/media/report_example.png)
 
 
 ***
