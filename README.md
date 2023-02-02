@@ -68,4 +68,4 @@ All output files will be created in the output folder.
 ## License
 MIT © OSINT-DB
 
-Creator - 
+Creator - SinbadDSailor
